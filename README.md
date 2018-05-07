@@ -1,6 +1,6 @@
 # I'm Instrument
 
-Make an human being into a musical instrument.
+Make a human being into a musical instrument.
 
 ## Summary
 
