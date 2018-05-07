@@ -12,7 +12,6 @@ We attached a conductive material unto a piece of fabric, which is then tied to 
 On the hardware side, we use these main conponents:
 * conductive material (INPUT)
 * resistor (INPUT & OUTPUT)
-* laptop spearker (OUTPUT)
 
 On the software side, we have:
 * processing (OUTPUT)
