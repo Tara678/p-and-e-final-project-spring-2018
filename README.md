@@ -31,7 +31,7 @@ Photos and videos of your completed final project!
 
 ## References and links
 
-[https://www.adafruit.com/product/2340]
-[https://www.youtube.com/watch?v=6fzHTwYVKrc]
-[https://makeymakey.com]
+(https://www.adafruit.com/product/2340)
+(https://www.youtube.com/watch?v=6fzHTwYVKrc)
+(https://makeymakey.com)
 
