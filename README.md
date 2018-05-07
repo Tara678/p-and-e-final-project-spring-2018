@@ -55,6 +55,9 @@ Every time we call it a day after a successful progress, something is bound to n
 - Week 5: Present!
 
 ## Completed Work
+Video uploaded in this folder: 
+
+https://github.com/Tara678/p-and-e-final-project-spring-2018/blob/master/i%20am%20instrument.mp4
 
 ![alt text](https://github.com/Tara678/p-and-e-final-project-spring-2018/blob/master/Human%20Instrument.jpg)
 
