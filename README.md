@@ -56,7 +56,7 @@ Every time we call it a day after a successful progress, something is bound to n
 
 ## Completed Work
 
-![alt text]()
+![alt text](p-and-e-final-project-spring-2018/Human Instrument.jpg)
 
 ## References and links
 
