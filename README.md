@@ -18,7 +18,7 @@ On the software side, we have:
 * processing (OUTPUT)
 * laptop speaker (INPUT & OUTPUT)
 
-![alt text](https://github.com/Tara678/p-and-e-final-project-spring-2018/blob/master/block%20diagram.jpg)
+![alt text](https://github.com/Tara678/p-and-e-final-project-spring-2018/blob/master/block%20diagram.JPG)
 Our project relies heavily on capacitive touch so we used the Arduino Due board and the CapitiveSense library to execute that portion. We have 1 pin (pin 4) that is the send pin (OUTPUT), and a total of 10 sensor (receive) pins (INPUT), with a high value resistor (10 ohm) between them. Then inbetween the resistor and the receive pin, a peice of conductive material will be connected so that we have 10 different touch spots - which means we can have 10 different sounds. We used the Simple Read library on Processing to transform the data received from Arduino so a sound can be produced. We created strings for our individual sound files, and paths to load and play the files. We then created 2 sets of booleans for each individual sound. The first for the sound itself, and the second for when it’s playing. We also had to work with ASCII charts to determine which values would be true or false for the booleans. If the conductive material is touched (sensor value is above 1000 - 3000, the lower the value, the more sensitive it gets), Arduino will read from the analog and print a sensor output (Sensor.println). In Processing, int val stores the data received from Serial.port. Processing will play different sounds according to those values.
 
 ## Challenges
